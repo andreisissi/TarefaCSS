@@ -1,0 +1,93 @@
+* {
+    text-align: center;
+}
+
+#imagemredonda {
+    width: 13rem;
+    padding: 2px;
+    border-radius: 50%;
+    border-style: groove;
+    border-color: blueviolet;
+    background-color: blueviolet;
+    margin: 0;
+}
+#github {
+    text-decoration: none;
+    font-size: 20px;
+    color:rgb(250, 100, 100);
+}
+
+#linha {
+    width: 50rem;
+    height: 3px;
+    background-color: blueviolet;
+    border: blueviolet;
+    border-radius: 5px;
+}
+
+body {
+    background-size: cover;
+    background-image: url(/img/estrela.avif);
+    margin: 20px;
+} 
+
+h1 {
+    color: rgb(250, 100, 100);
+    margin: 0px;
+    font-size: 70px;
+    font-family: 'Cinzel', serif;
+}
+
+#github:hover {
+    font-size: 25px;
+} 
+
+h2 {
+    color: rgb(250, 100, 100);
+}
+
+p {
+    font-size: 20px;
+    margin: 10px;
+    color: rgb(114, 6, 91);
+}
+
+.formacao {
+    background-color: rgba(255, 255, 255, 0.178);
+    border: 3px solid rgb(250, 100, 100);
+    border-radius: 20px;
+    width: 35%;
+    margin: auto;
+    padding: 10px;
+}
+
+.formacao:hover {
+    padding: 15px;
+}
+
+.objetivo {
+    background-color: rgba(255, 255, 255, 0.178);
+    border: 3px solid rgb(250, 100, 100);
+    border-radius: 20px;
+    width: 35%;
+    margin: auto;
+    padding: 10px;
+}
+
+.objetivo:hover {
+    padding: 15px;
+}
+
+.experiencias {
+    background-color: rgba(255, 255, 255, 0.178);
+    border: 3px solid rgb(250, 100, 100);
+    border-radius: 20px;
+    width: 35%;
+    margin: auto;
+    padding: 10px;
+
+}
+
+.experiencias:hover{
+    padding: 15px;
+}
